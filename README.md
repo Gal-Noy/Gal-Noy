@@ -4,7 +4,7 @@
 
 ✔	2nd-year B.Sc Computer Science at Ben Gurion University in the Negev, Beersheba, Israel.
 
-✔	Looking for a job opportunity as a developer.
+✔	Junior developer at SHL Telemedicine
 
 ✔	Self-taught with high level of independence.
 
