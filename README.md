@@ -6,6 +6,8 @@
 
 ✔ AWS Certified Developer – Associate.
 
+✔ Games developer.
+
 ✔ MERN & .NET, MSSQL/PostgreSQL, Java, C\C++, Unity.
 
 ✔	EMT-P Paramedic.
