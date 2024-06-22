@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm [Gal Noy](https://github.com/Gal-Noy) 🌊
 
-✔	Full Stack Developer @ Ness Technologies.
+✔	Full Stack Developer @ Noogata.
 
 ✔	B.Sc Computer Science student @ Ben Gurion University in the Negev, Beersheba, Israel.
 
@@ -8,7 +8,7 @@
 
 ✔ Games developer.
 
-✔ MERN & .NET, MSSQL/PostgreSQL, Java, C\C++, Unity.
+✔ Python, MERN & .NET, MSSQL/PostgreSQL, Java, C\C++, Unity.
 
 ✔	EMT-P Paramedic.
 
