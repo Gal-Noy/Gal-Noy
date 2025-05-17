@@ -1,6 +1,8 @@
 ### Hi there 👋, I'm [Gal Noy](https://github.com/Gal-Noy) 🌊
 
-✔	Full Stack Developer @ Noogata.
+✔	Software Engineer @ Okta.
+
+✔	M.Sc. Student in Computer Science.
 
 ✔	EMT-P Paramedic.
 
